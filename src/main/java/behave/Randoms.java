@@ -10,7 +10,6 @@ public class Randoms implements Iterable<Integer> {
     public Randoms(int min, int max) {
         this.min = min;
         this.max = max;
-
     }
 
     @Override
